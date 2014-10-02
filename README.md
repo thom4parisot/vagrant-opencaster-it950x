@@ -27,4 +27,4 @@ sudo ./start.sh
 
 # Watch
 
-Setup your TV/receiver on a custom channel at 474kHz.
+Setup your TV/receiver on a custom channel at 474MHz (ch21).
